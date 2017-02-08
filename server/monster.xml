@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="gb2312"?>
+<list>
+    <monster id="1">
+        <id type="int">1</id>
+        <attack type="int">1</attack>
+        <defence type="int">1</defence>
+        <test1 type="array">1,2,3</test1>
+    </monster>
+    <monster id="2">
+        <id type="int">2</id>
+        <attack type="int">2</attack>
+        <defence type="int">2</defence>
+        <test1 type="array">1,2,4</test1>
+    </monster>
+    <monster id="3">
+        <id type="int">3</id>
+        <attack type="int">3</attack>
+        <defence type="int">3</defence>
+        <test1 type="array">1,2,5</test1>
+    </monster>
+    <monster id="4">
+        <id type="int">4</id>
+        <attack type="int">4</attack>
+        <defence type="int">4</defence>
+        <test1 type="array">1,2,6</test1>
+    </monster>
+    <monster id="5">
+        <id type="int">5</id>
+        <attack type="int">5</attack>
+        <defence type="int">5</defence>
+        <test1 type="array">1</test1>
+    </monster>
+    <monster id="6">
+        <id type="int">6</id>
+        <attack type="int">6</attack>
+        <defence type="int">6</defence>
+        <test1 type="array">1,2,8</test1>
+    </monster>
+</list>

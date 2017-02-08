@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<list>
+    <defender id="1">
+        <id type="int">1</id>
+    </defender>
+    <defender id="2">
+        <id type="int">2</id>
+    </defender>
+    <defender id="3">
+        <id type="int">3</id>
+    </defender>
+    <defender id="4">
+        <id type="int">4</id>
+    </defender>
+    <defender id="5">
+        <id type="int">5</id>
+    </defender>
+    <defender id="6">
+        <id type="int">6</id>
+    </defender>
+</list>

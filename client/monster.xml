@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="gb2312"?>
+<list>
+    <monster id="1">
+        <id type="int">1</id>
+        <name type="string">史莱姆</name>
+        <desc type="string">一坨屎</desc>
+        <defence type="int">1</defence>
+        <hp type="int">2</hp>
+        <test1 type="array">1,2,3</test1>
+        <test2 type="dict">1:1,2:2</test2>
+    </monster>
+    <monster id="2">
+        <id type="int">2</id>
+        <name type="string">哥布林</name>
+        <desc type="string">弓箭手</desc>
+        <defence type="int">2</defence>
+        <hp type="int">3</hp>
+        <test1 type="array">1,2,4</test1>
+        <test2 type="dict">1:1,2:1111</test2>
+    </monster>
+    <monster id="3">
+        <id type="int">3</id>
+        <name type="string">步兵</name>
+        <desc type="string">为了部落</desc>
+        <defence type="int">3</defence>
+        <hp type="int">4</hp>
+        <test1 type="array">1,2,5</test1>
+        <test2 type="dict">1:1</test2>
+    </monster>
+    <monster id="4">
+        <id type="int">4</id>
+        <name type="string">骑兵</name>
+        <desc type="string">为了联盟</desc>
+        <defence type="int">4</defence>
+        <hp type="int">5</hp>
+        <test1 type="array">1,2,6</test1>
+        <test2 type="dict">1:01</test2>
+    </monster>
+    <monster id="5">
+        <id type="int">5</id>
+        <name type="string">弩手</name>
+        <desc type="string">我射~</desc>
+        <defence type="int">5</defence>
+        <hp type="int">6</hp>
+        <test1 type="array">1</test1>
+        <test2 type="dict">1:1,2:6</test2>
+    </monster>
+    <monster id="6">
+        <id type="int">6</id>
+        <name type="string">魔龙</name>
+        <desc type="string">最终Boss</desc>
+        <defence type="int">6</defence>
+        <hp type="int">7</hp>
+        <test1 type="array">1,2,8</test1>
+        <test2 type="dict">1:1,2:7</test2>
+    </monster>
+</list>

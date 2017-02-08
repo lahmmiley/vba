@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="gb2312"?>
+<list>
+    <defender id="1">
+        <id type="int">1</id>
+        <name type="string">陈铨</name>
+        <desc type="string">初级兵</desc>
+    </defender>
+    <defender id="2">
+        <id type="int">2</id>
+        <name type="string">陈建</name>
+        <desc type="string">中级兵</desc>
+    </defender>
+    <defender id="3">
+        <id type="int">3</id>
+        <name type="string">锦生</name>
+        <desc type="string">高级兵</desc>
+    </defender>
+    <defender id="4">
+        <id type="int">4</id>
+        <name type="string">剑鸿</name>
+        <desc type="string">99级一般兵</desc>
+    </defender>
+    <defender id="5">
+        <id type="int">5</id>
+        <name type="string">依植</name>
+        <desc type="string">鸡翅兵</desc>
+    </defender>
+    <defender id="6">
+        <id type="int">6</id>
+        <name type="string">曹超</name>
+        <desc type="string">快递兵</desc>
+    </defender>
+</list>

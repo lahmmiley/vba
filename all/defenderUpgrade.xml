@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="gb2312"?>
+<list>
+    <defenderUpgrade id="1">
+        <id type="int">1</id>
+        <defenderId type="int">1</defenderId>
+        <level type="int">1</level>
+        <attack type="int">1</attack>
+        <hp type="int">1</hp>
+        <speed type="int">1</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="2">
+        <id type="int">2</id>
+        <defenderId type="int">1</defenderId>
+        <level type="int">2</level>
+        <attack type="int">2</attack>
+        <hp type="int">2</hp>
+        <speed type="int">2</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="3">
+        <id type="int">3</id>
+        <defenderId type="int">1</defenderId>
+        <level type="int">3</level>
+        <attack type="int">3</attack>
+        <hp type="int">3</hp>
+        <speed type="int">3</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="4">
+        <id type="int">4</id>
+        <defenderId type="int">2</defenderId>
+        <level type="int">1</level>
+        <attack type="int">2</attack>
+        <hp type="int">2</hp>
+        <speed type="int">2</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="5">
+        <id type="int">5</id>
+        <defenderId type="int">2</defenderId>
+        <level type="int">2</level>
+        <attack type="int">3</attack>
+        <hp type="int">3</hp>
+        <speed type="int">3</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="6">
+        <id type="int">6</id>
+        <defenderId type="int">2</defenderId>
+        <level type="int">3</level>
+        <attack type="int">4</attack>
+        <hp type="int">4</hp>
+        <speed type="int">4</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="7">
+        <id type="int">7</id>
+        <defenderId type="int">3</defenderId>
+        <level type="int">1</level>
+        <attack type="int">3</attack>
+        <hp type="int">3</hp>
+        <speed type="int">3</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="8">
+        <id type="int">8</id>
+        <defenderId type="int">3</defenderId>
+        <level type="int">2</level>
+        <attack type="int">4</attack>
+        <hp type="int">4</hp>
+        <speed type="int">4</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="9">
+        <id type="int">9</id>
+        <defenderId type="int">3</defenderId>
+        <level type="int">3</level>
+        <attack type="int">5</attack>
+        <hp type="int">5</hp>
+        <speed type="int">5</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="10">
+        <id type="int">10</id>
+        <defenderId type="int">4</defenderId>
+        <level type="int">1</level>
+        <attack type="int">4</attack>
+        <hp type="int">4</hp>
+        <speed type="int">4</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="11">
+        <id type="int">11</id>
+        <defenderId type="int">4</defenderId>
+        <level type="int">2</level>
+        <attack type="int">5</attack>
+        <hp type="int">5</hp>
+        <speed type="int">5</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="12">
+        <id type="int">12</id>
+        <defenderId type="int">4</defenderId>
+        <level type="int">3</level>
+        <attack type="int">6</attack>
+        <hp type="int">6</hp>
+        <speed type="int">6</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="13">
+        <id type="int">13</id>
+        <defenderId type="int">5</defenderId>
+        <level type="int">1</level>
+        <attack type="int">5</attack>
+        <hp type="int">5</hp>
+        <speed type="int">5</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="14">
+        <id type="int">14</id>
+        <defenderId type="int">5</defenderId>
+        <level type="int">2</level>
+        <attack type="int">6</attack>
+        <hp type="int">6</hp>
+        <speed type="int">6</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="15">
+        <id type="int">15</id>
+        <defenderId type="int">5</defenderId>
+        <level type="int">3</level>
+        <attack type="int">7</attack>
+        <hp type="int">7</hp>
+        <speed type="int">7</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="16">
+        <id type="int">16</id>
+        <defenderId type="int">6</defenderId>
+        <level type="int">1</level>
+        <attack type="int">6</attack>
+        <hp type="int">6</hp>
+        <speed type="int">6</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="17">
+        <id type="int">17</id>
+        <defenderId type="int">6</defenderId>
+        <level type="int">2</level>
+        <attack type="int">7</attack>
+        <hp type="int">7</hp>
+        <speed type="int">7</speed>
+    </defenderUpgrade>
+    <defenderUpgrade id="18">
+        <id type="int">18</id>
+        <defenderId type="int">6</defenderId>
+        <level type="int">3</level>
+        <attack type="int">8</attack>
+        <hp type="int">8</hp>
+        <speed type="int">8</speed>
+    </defenderUpgrade>
+</list>
